@@ -2,6 +2,7 @@
 #Author: Cameron Griffin
 #Date of latest revision: 11-21-2022
 #Purpose: A Powershell that automates Ping hits, Printer Sharing, Enable ICMP, Remote Manage, Remove Bloatware, Enable Hyper-V, Toggle SMBv1
+# Google Doc: https://docs.google.com/document/d/1UKTJe_1x2XBdJgBwcbzdAeRatPc0K3HNJCqDOEoD-cM/edit?usp=sharing
 
 #Code Copied from https://github.com/superswan/Powershell-SysAdmin
 
